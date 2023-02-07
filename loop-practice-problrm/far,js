@@ -1,0 +1,5 @@
+var far = prompt("enter farenheight");
+
+var cel = (far - 32) * (5 / 9);
+
+document.write("celcious =" + cel.toFixed(2));

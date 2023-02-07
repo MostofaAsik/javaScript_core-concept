@@ -1,0 +1,1 @@
+sum = sum.toFixed(2);
